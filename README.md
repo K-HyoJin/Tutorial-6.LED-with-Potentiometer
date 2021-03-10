@@ -47,3 +47,4 @@ else:
 ```
 입력으로 들어온 analog_value 값이 None이 아니면 delay변수에 analog_value를 더해주어 지연시키고\
 led가 켜지도록 1을 입력으로 줌\ delay만큼 지연시킨후 led가 꺼지도록 0을 입력으로 줌
+
